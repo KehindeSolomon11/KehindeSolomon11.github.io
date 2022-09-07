@@ -1,0 +1,4 @@
+* {margin: 0;padding: 0;}
+body {background: url(file:///C:/Users/hp/Downloads/Laptop1.jpg) no-repeat;background-size: cover;display: flex;justify-content: center;}
+div {font:50px cursive;color: brown;margin-top: 250px;margin-left: 400px;}
+input {text-align: center;font: 20px fantasy;border-radius: 20px;background-color: red;color: white;padding: 20px 20px;margin-top: 400px;margin-right: 400px;}
